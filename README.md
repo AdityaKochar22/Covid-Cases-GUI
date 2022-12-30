@@ -1,2 +1,4 @@
 # Covid-Cases-GUI
-Gui application to fetch and show COVIDcases using covid19india.org's stats API
+Developed a GUI that shows RealTime data of covid cases using Python and Tkinter <br />
+Implemented the GUI using the Stats API provided by covid19india.org 
+
